@@ -4,8 +4,7 @@
     </input>
     <input pattern="* как * дела*">
         <output value="Хорошо! А Ваши?"/>
-        <context modal="true"/>
-	    <context/>
+         </input> 
             <input pattern="* Отлично * расскажи про роботизацию*">
                 <output>
                     <item value="Это просто! "/>
