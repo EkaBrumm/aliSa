@@ -4,7 +4,7 @@
     </input>
     <input pattern="* как * дела*">
         <output value="Хорошо! А Ваши?"/>
-        <context modal="true">
+        <context modal="true"/>
             <input pattern="* Отлично * расскажи про роботизацию*">
                 <output>
                     <item value="Это просто! "/>
@@ -26,7 +26,7 @@
 	<input pattern="* скажи * какие процессы роботизируем *">
         <output value="Данная информация не доступна в связи с политикой безопастности компании, обратитесь к моему создателю"/>
 	</input>
-      <input pattern="*До скорой встречи, Ника*">
+      <input pattern=" *До скорой встречи, Ника *">
 	<var name="tts" value="Пок+асики"/>
 	<output value= "Пока"/>
 	</input>
