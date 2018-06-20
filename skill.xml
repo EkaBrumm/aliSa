@@ -2,12 +2,11 @@
     <input pattern="Привет, Ника"/>
         <output value="Здравствуйте"/>
     </input>
-</context>
     <input pattern="* как * дела*">
         <output value="Хорошо! А Ваши?"/>
         <context modal="true"/>
             <input pattern="* Отлично * расскажи про роботизацию*">
-                <output>
+                </output>
                     <item value="Это просто! "/>
                     <item value="Миром будут править роботы! "/>
                 </output>
