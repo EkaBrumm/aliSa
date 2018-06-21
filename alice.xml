@@ -4,9 +4,8 @@
     </input>
     <input pattern="* как * дела*">
         <output value="Хорошо! А Ваши?"/>
-            <input pattern="* Отлично * ">
+            <input pattern="* Отлично * расскажи про роботов* ">
 	</input>
-	    <input pattern="*расскажи про роботов* ">
                 <output value=" Это просто "/>
 	    </input>
 	        <input pattern="* Я * слушаю * ">
