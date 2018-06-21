@@ -8,8 +8,7 @@
 	</input>
                 <output value=" Это просто "/>
 	    </input>
-	        <input pattern="* Я * слушаю * ">
-	</input>	
+	        <input pattern="* Я * слушаю * ">	
 	        <output value="Миром будут править роботы! "/>
             </input>
              <input pattern="* Что такое * Машинное обучение*">
