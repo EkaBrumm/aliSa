@@ -9,7 +9,7 @@
 	    <input pattern="*расскажи про роботов* ">
                 <output value=" Это просто "/>
 	    </input>
-	        <input pattern="* Я во внимании * ">
+	        <input pattern="* Я * слушаю * ">
 	</input>	
 	        <output value="Миром будут править роботы! "/>
             </input>
