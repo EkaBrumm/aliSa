@@ -4,10 +4,12 @@
     </input>
     <input pattern="* как * дела*">
         <output value="Хорошо! А Ваши?"/>
-            <input pattern="* Отлично * расскажи про роботов* ">
+            <input pattern="* Отлично * ">
 	</input>
-                <output value="Это просто "/>
-	        <input pattern="* Слушаю * ">
+	    <input pattern="*расскажи про роботов* ">
+                <output value=" Это просто "/>
+	    </input>
+	        <input pattern="* Я во внимании * ">
 	</input>	
 	        <output value="Миром будут править роботы! "/>
             </input>
