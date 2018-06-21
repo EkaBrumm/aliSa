@@ -5,8 +5,10 @@
     <input pattern="* как * дела*">
         <output value="Хорошо! А Ваши?"/>
             <input pattern="* Отлично * расскажи про роботов* ">
-		</input>
+	</input>
                 <output value="Это просто "/>
+	        <input pattern="* Слушаю * ">
+	</input>	
 	        <output value="Миром будут править роботы! "/>
             </input>
              <input pattern="* Что такое * Машинное обучение*">
