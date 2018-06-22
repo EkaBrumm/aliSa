@@ -1,9 +1,10 @@
 <context>
-    <input pattern="Привет, Ника"/>
-        <output value="Здравствуйте"/>
+    <input pattern="привет, Ника">
+        <output value="Здравствуй"/>
     </input>
     <input pattern="* как * дела*">
         <output value="Хорошо! А Ваши?"/>
+	     </input>
             <input pattern="* Отлично * расскажи про роботизацию* ">
 		</input>
                 <output>
