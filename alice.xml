@@ -1,4 +1,4 @@
-context>
+<context>
     <input pattern="привет, Ника">
         <output value="приветик"/>
     </input>
