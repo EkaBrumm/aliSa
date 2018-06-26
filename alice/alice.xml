@@ -28,7 +28,8 @@
         <output value="Данная информация не доступна в связи с политикой безопасности компании, обратитесь к моему создателю =). К моей Богине"/>
 	</input>
       <input pattern=" *До скорой встречи, Ника* ">
-	<var name="tts" value="Пок+асики"/>
+	<var name="end_session" value="javascript: true"/>
+	<var name="tts" value="Пок+асики"/>      
 	<output value= "Пока"/>
             </input>
             </context>
